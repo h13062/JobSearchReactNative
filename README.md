@@ -6,6 +6,9 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ```sh
 npx create-expo-app -e with-router
+QR for launching
+    https://expo.dev/@ghb0024/ReactNative?serviceType=classic&distribution=expo-go
+
 ```
 
 ## 📝 Notes
