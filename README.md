@@ -14,5 +14,5 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
--[QR for launching](https://expo.dev/@ghb0024/ReactNative?serviceType=classic&distribution=expo-go)
+-  [QR for launching](https://expo.dev/@ghb0024/ReactNative?serviceType=classic&distribution=expo-go)
 ![image](https://github.com/h13062/JobSearchReactNative/assets/62267270/76ab8e3a-c48c-43d1-bf5e-011e15f2ab24)
